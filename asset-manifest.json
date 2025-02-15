@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stellar-website/static/css/main.e4a339ad.css",
+    "main.js": "/stellar-website/static/js/main.9bc2cf9c.js",
+    "static/js/678.471eb3f1.chunk.js": "/stellar-website/static/js/678.471eb3f1.chunk.js",
+    "index.html": "/stellar-website/index.html",
+    "main.e4a339ad.css.map": "/stellar-website/static/css/main.e4a339ad.css.map",
+    "main.9bc2cf9c.js.map": "/stellar-website/static/js/main.9bc2cf9c.js.map",
+    "678.471eb3f1.chunk.js.map": "/stellar-website/static/js/678.471eb3f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a339ad.css",
+    "static/js/main.9bc2cf9c.js"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="30" viewBox="0 0 120 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M15 5H20V10H15V25M10 15H25" stroke="white" stroke-width="2"/>
+  <path d="M35 5H50V10H35V15H50V20H35V25" stroke="white" stroke-width="2"/>
+  <path d="M60 5H75V10H60V15H75V20H60V25" stroke="white" stroke-width="2"/>
+  <path d="M85 5H100V10H85V15H100V20H85V25" stroke="white" stroke-width="2"/>
+  <path d="M110 5V25M105 15H115" stroke="white" stroke-width="2"/>
+</svg> 
